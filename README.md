@@ -1,6 +1,6 @@
 # Voice Recognition to Determine Emotions
 
-![](images/loudspeaker.png width=50% height=50%)
+![](images/loudspeaker.png)
 
 ## Project Description
 
