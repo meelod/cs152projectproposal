@@ -1,6 +1,6 @@
-# Title: Voice Recognition to Determine Emotions
+# Voice Recognition to Determine Emotions
 
-![](images/loudspeaker.png | width=50%)
+![](images/loudspeaker.png | width=100)
 
 ## Project Description
 
